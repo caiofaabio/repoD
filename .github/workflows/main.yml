@@ -12,5 +12,5 @@ jobs:
         uses: actions/checkout@v2
 
       - name: RepoC Action
-        uses: caiofaabio/repoC@0.01
+        uses: caiofaabio/repoC@main
             
